@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="15" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="16" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="22" pc="268435521" symbol="onShow"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="26" pc="268435526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="29" pc="268435530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="30" pc="268435547" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="31" pc="268435624" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="32" pc="268435648" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="33" pc="268435672" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="34" pc="268435696" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="35" pc="268435744" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="36" pc="268435784" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="37" pc="268435808" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="38" pc="268435840" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="39" pc="268435864" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="40" pc="268435888" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="41" pc="268435905" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="42" pc="268435915" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="44" pc="268435939" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="46" pc="268435953" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="48" pc="268435987" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="50" pc="268436001" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="52" pc="268436046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="54" pc="268436075" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="56" pc="268436092" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="58" pc="268436112" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="59" pc="268436149" symbol="onUpdate"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="63" pc="268436174" symbol="onHide"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="66" pc="268436179" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="69" pc="268436184" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="72" pc="268436189" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="73" pc="268436193" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="74" pc="268436193" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="75" pc="268436210" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="77" pc="268436220" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="79" pc="268436237" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="80" pc="268436242" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="81" pc="268436252" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="83" pc="268436276" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="84" pc="268436286" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="85" pc="268436297" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="86" pc="268436307" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="87" pc="268436318" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="90" pc="268436328" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="92" pc="268436335" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="95" pc="268436339" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="96" pc="268436350" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="98" pc="268436371" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchView.mc" lineNum="101" pc="268436375" symbol="getHour"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchApp.mc" lineNum="5" pc="268436379" symbol="initialize"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchApp.mc" lineNum="6" pc="268436383" symbol="initialize"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchApp.mc" lineNum="10" pc="268436402" symbol="onStart"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchApp.mc" lineNum="14" pc="268436407" symbol="onStop"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchApp.mc" lineNum="18" pc="268436412" symbol="getInitialView"/>
+<entry filename="C:\\Users\\justin\\Documents\\Eclipse Projects\\PTGWatch\\source\\PTGWatchApp.mc" lineNum="19" pc="268436416" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268436454" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268436458" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268436591" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268436717" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268436843" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268436969" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268437095" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268437236" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268437261" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268437313" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8" object="true" symbol="PTGWatchView"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="12" symbol="Smiley"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" symbol="Gregorian"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="9" object="true" symbol="PTGWatchApp"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="15" method="true" symbol="getHour"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436173" name="timeString" stackId="3" startPc="268435530"/>
+<entry endPc="268436173" name="secString" stackId="4" startPc="268435530"/>
+<entry endPc="268436173" name="date" stackId="9" startPc="268435530"/>
+<entry endPc="268436173" name="dateStr" stackId="8" startPc="268435530"/>
+<entry endPc="268436173" name="image" stackId="16" startPc="268435530"/>
+<entry endPc="268436173" name="clockTime" stackId="2" startPc="268435530"/>
+<entry endPc="268436173" name="actInfo" stackId="13" startPc="268435530"/>
+<entry endPc="268436173" name="stepOut" stackId="12" startPc="268435530"/>
+<entry endPc="268436173" name="battery" stackId="10" startPc="268435530"/>
+<entry endPc="268436173" name="steps" stackId="14" startPc="268435530"/>
+<entry endPc="268436173" name="view" stackId="5" startPc="268435530"/>
+<entry endPc="268436173" name="seconds" stackId="6" startPc="268435530"/>
+<entry endPc="268436173" name="nowInfo" stackId="7" startPc="268435530"/>
+<entry endPc="268436173" name="sbr" stackId="15" startPc="268435530"/>
+<entry endPc="268436173" name="battString" stackId="11" startPc="268435530"/>
+<entry endPc="268436378" name="result" stackId="1" startPc="268436193"/>
+<entry endPc="268436378" name="hour" stackId="2" startPc="268436193"/>
+<entry endPc="268436378" name="ampm" stackId="5" startPc="268436193"/>
+<entry endPc="268436378" name="settings" stackId="4" startPc="268436193"/>
+<entry endPc="268436378" name="time" stackId="3" startPc="268436193"/>
+<entry endPc="268437380" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268436458"/>
+<entry endPc="268437380" name="rez_cmp_local_bitmap_SBR" stackId="7" startPc="268436458"/>
+<entry endPc="268437380" name="rez_cmp_local_bitmap_Steps" stackId="5" startPc="268436458"/>
+<entry endPc="268437380" name="rez_cmp_local_bitmap_SBR_fontHeight" stackId="8" startPc="268436458"/>
+<entry endPc="268437380" name="rez_cmp_local_bitmap_Seconds" stackId="6" startPc="268436458"/>
+<entry endPc="268437380" name="rez_cmp_local_bitmap_Battery" stackId="4" startPc="268436458"/>
+<entry endPc="268437380" name="rez_cmp_local_bitmap_Date" stackId="3" startPc="268436458"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="PTGWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="PTGWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="PTGWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="PTGWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="PTGWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="PTGWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="PTGWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="getHour" parent="PTGWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="PTGWatchApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="PTGWatchApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="PTGWatchApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="PTGWatchApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
